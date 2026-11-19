@@ -1,0 +1,17 @@
+{
+  "TP": 379,
+  "TN": 125,
+  "FP": 10,
+  "FN": 10,
+  "accuracy": 0.9618320610687023,
+  "recall": 0.974293059125964,
+  "precision": 0.974293059125964,
+  "f1": 0.974293059125964,
+  "run": "cechy_100",
+  "percent": 100,
+  "all_params": 2259265,
+  "trainable_params": 1281,
+  "train_time_s": 7.185050625004806,
+  "inference_ms": 0.9544906164078488,
+  "best_epoch": 50
+}
